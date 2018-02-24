@@ -16,8 +16,7 @@ public class AreaCircular {
 		System.out.println("The radious>>>>>>");
 		double m =sc.nextInt();
 
-	 System.out.println("The area of the circule with this r: "+m+" is: "+Math.PI*m*m+" the half of the area is: "+(Math.PI*m*m)/2);
-
+	 System.out.println("The area of the circule with this r: "+m+" is: "+Math.PI*m*m);
 		}
 
 }
